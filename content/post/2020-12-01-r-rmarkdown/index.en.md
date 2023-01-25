@@ -3,7 +3,7 @@ title: "Asking AI scientific questions"
 author: "AMM"
 date: 2023-01-22T21:13:14-05:00
 categories: ["Post"]
-tags: ["Post", "AI"]
+tags: ["Post", "AI", "CHATGPT"]
 ---
 
 
