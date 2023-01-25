@@ -10,10 +10,6 @@ tags: ["Post", "AI"]
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-## News
-
-This section of the website will be dedicated to news and posts, however, as a first post, I decided to do something fun, and ask ChatGPT some fisheries questions! 
-
 ## The questions
 
 
@@ -70,9 +66,9 @@ In general, people with a PhD in fisheries can expect to have a diverse range of
 
 Finally, I decided to task Dall-E, another AI tool, to create the portraits of two scientists with a PhD in fisheries, that ended up looking like this:
  
-![Figure 4. An image created by Dall-e when tasked with making a portrait of someone who has a PhD in fisheries](.\fisheriesphd1.png) 
+![Figure 4. An image created by Dall-e when tasked with making a portrait of someone who has a PhD in fisheries](./fisheriesphd1.png) 
 
 
-![Figure 5. An image created by Dall-e when tasked with making a portrait of someone who has a PhD in fisheries](.\fisheriesphd2.png) 
+![Figure 5. An image created by Dall-e when tasked with making a portrait of someone who has a PhD in fisheries](./fisheriesphd2.png) 
 
 

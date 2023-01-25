@@ -3,14 +3,10 @@ title: "Asking AI scientific questions"
 author: "AMM"
 date: 2023-01-22T21:13:14-05:00
 categories: ["Post"]
-tags: ["Post", "AI", "CHATGPT"]
+tags: ["Post", "AI"]
 ---
 
 
-
-## News
-
-This section of the website will be dedicated to news and posts, however, as a first post, I decided to do something fun, and ask ChatGPT some fisheries questions! 
 
 ## The questions
 
