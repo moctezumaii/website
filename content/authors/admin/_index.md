@@ -24,8 +24,8 @@ interests:
 - Shiny Apps
 last_name: Molina-Moctezuma
 organizations:
-- name: Quantitative Fisheries Center, MSU
-  url: https://www.canr.msu.edu/qfc/
+- name: School of Natural Resources, University of Tennessee
+  url: https://utia.tennessee.edu/person/?id=163076/
   
 role: Postdoctoral researcher
 social:

@@ -22,13 +22,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Assistant Professor
+    company: School of Natural Resources, University of Tennessee
+    company_url: 'https://naturalresources.tennessee.edu/'
+    company_logo: UT
+    location: Tennessee
+    date_start: '2023-06-01'
+    date_end: ''
+    description: |2-
+       
+        * Research: 
+        * Teaching: 
+        * Consulting
   - title: Postdoctoral Researcher
     company: Quantitative Fisheries Center MSU
     company_url: 'https://www.canr.msu.edu/qfc/'
     company_logo: MSU
     location: Michigan
     date_start: '2022-02-01'
-    date_end: ''
+    date_end: '2023-06-01'
     description: |2-
        
         * Research: Developing new model for spatially explicit mortality
