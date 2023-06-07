@@ -16,23 +16,23 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: molina28@msu.edu
-  phone: 888 888 88 88
+  email: amolina6@utk.edu
+  phone: 865-974-7979
   address:
-    street: Stevens Point
-    city: Stevens Point
-    region: WI
-    postcode: '54481'
+    street: 239 Plant Biotechnology Building, 2505 E J Chapman Drive
+    city: Knoxville
+    region: TN
+    postcode: '37996'
     country: United States
     country_code: US
   coordinates:
     latitude: '44.5294'
     longitude: '-89.5684'
-  directions: Currently working remotely
+  directions: Biotech Building second floor
   office_hours:
-    - 'Moday 8am - 10pm'
-    - 'NA'
-  appointment_url: NA
+    - 'Moday to Friday 8am - 10pm'
+    
+
   
 
 
