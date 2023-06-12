@@ -27,7 +27,7 @@ organizations:
 - name: School of Natural Resources, University of Tennessee
   url: https://utia.tennessee.edu/person/?id=163076/
   
-role: Postdoctoral researcher
+role: Research Assistant Professor
 social:
 - icon: envelope
   icon_pack: fas
